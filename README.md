@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/11247099/140462375-7b7ac4db-35b7-453c-8a05-13d8d20282c4.png" width="600"/>
-</p>
-
 <h2 align="center">
 <a href="https://tous.com">TOUS</a> with Nuxt 3
 </h2>
@@ -9,6 +5,9 @@
 <br>
 <a href="https://tous.netlify.app/">🖥 &nbsp; Online Preview</a>
 </h3>
+
+## Ref
+https://www.figma.com/file/4Qvd9xBEVWwBTDH6a7Yfqt/Prueba
 
 ## Features
 
