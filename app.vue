@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'Vitesse Nuxt 3',
+  title: 'Tous',
   link: [
     {
       rel: 'icon', type: 'image/png', href: '/nuxt.png',
@@ -17,6 +17,7 @@ useHead({
 
 <style>
 html, body , #__nuxt{
+  font-family: Roboto, Roboto-fallback;
   height: 100vh;
   margin: 0;
   padding: 0;
