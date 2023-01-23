@@ -3,7 +3,7 @@ import { ButtonTypes } from '~/server/api/types'
 </script>
 
 <template>
-  <div flex justify-around class="flex-wrap-reverse md:flex-wrap pb-[5%]">
+  <div flex justify-around class="flex-wrap-reverse md:flex-wrap pb-[10%] pt-[10%] md:pt-0">
     <div class="pb-[5%]">
       <p class="py-[5%] md:px-[10%] px-[5%]">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a mi fringilla nisi condimentum tincidunt. Donec placerat gravida imperdiet. Sed gravida pretium pulvinar. Duis porttitor dolor rhoncus, tempus enim id, lacinia elit. Aliquam posuere felis in placerat luctus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc in lorem euismod, dictum mi in, commodo orci.
