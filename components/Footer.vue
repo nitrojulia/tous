@@ -1,13 +1,15 @@
 <template>
   <div
-    text="xl gray4"
-    m-5
-    flex
-    justify-center
-    gap-3
+    class="w-full flex items-center justify-center pb-4 pt-8"
   >
-    <NuxtLink i-carbon-campsite to="/" />
-    <a i-carbon-logo-github href="https://github.com/antfu/vitesse-nuxt3" target="_blank" />
-    <DarkToggle />
+    <a href="https://tous.com" target="_blank">© Tous, joyeros desde 1920</a>
   </div>
 </template>
+
+<style scoped>
+a {
+  font-family: Tous, Tous-fallback !important;
+  font-weight: 600;
+  font-size: 16px;
+}
+</style>
