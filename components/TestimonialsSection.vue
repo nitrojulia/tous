@@ -8,31 +8,31 @@ const testimonials = [
     title: 'Lorem 1',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a mi fringilla nisi condimentum tincidunt.',
     btnText: 'Leer más',
-    img: '/_nuxt/assets/dogs8.jpg',
+    img: '/dogs8.jpg',
   },
   {
     title: 'Lorem 2',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a mi fringilla nisi condimentum tincidunt.',
     btnText: 'Leer más',
-    img: '/_nuxt/assets/dogs9.jpg',
+    img: '/dogs9.jpg',
   },
   {
     title: 'Lorem 3',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a mi fringilla nisi condimentum tincidunt.',
     btnText: 'Leer más',
-    img: '/_nuxt/assets/dogs10.jpg',
+    img: '/dogs10.jpg',
   },
   {
     title: 'Lorem 4',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a mi fringilla nisi condimentum tincidunt.',
     btnText: 'Leer más',
-    img: '/_nuxt/assets/dogs11.jpg',
+    img: '/dogs11.jpg',
   },
   {
     title: 'Lorem 5',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a mi fringilla nisi condimentum tincidunt.',
     btnText: 'Leer más',
-    img: '/_nuxt/assets/dogs12.jpg',
+    img: '/dogs12.jpg',
   },
 ]
 </script>

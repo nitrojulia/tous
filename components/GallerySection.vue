@@ -14,22 +14,22 @@
     </p>
     <div class="grid grid-rows-2 grid-flow-col gap-2 mt-4">
       <div class="row-span-1 md:row-span-full hover:filter-sepia hover:cursor-pointer">
-        <img src="~/assets/dogs1.jpg" alt="dog1" class="w-full aspect-square md:aspect-auto md:h-full object-cover">
+        <img src="/dogs1.jpg" alt="dog1" class="w-full aspect-square md:aspect-auto md:h-full object-cover">
       </div>
       <div class="row-span-1 hover:filter-sepia hover:cursor-pointer">
-        <img src="~/assets/dogs2.jpg" alt="dog2" class="w-full aspect-square object-cover">
+        <img src="/dogs2.jpg" alt="dog2" class="w-full aspect-square object-cover">
       </div>
       <div class="row-span-1 hover:filter-sepia hover:cursor-pointer">
-        <img src="~/assets/dogs3.jpg" alt="dog3" class="w-full aspect-square object-cover">
+        <img src="/dogs3.jpg" alt="dog3" class="w-full aspect-square object-cover">
       </div>
       <div class="row-span-1 hover:filter-sepia hover:cursor-pointer">
-        <img src="~/assets/dogs3.jpg" alt="dog4" class="w-full aspect-square object-cover">
+        <img src="/dogs3.jpg" alt="dog4" class="w-full aspect-square object-cover">
       </div>
       <div class="row-span-1 hover:filter-sepia hover:cursor-pointer">
-        <img src="~/assets/dogs5.jpg" alt="dog5" class="w-full aspect-square object-cover">
+        <img src="/dogs5.jpg" alt="dog5" class="w-full aspect-square object-cover">
       </div>
       <div class="row-span-1 md:row-span-full hover:filter-sepia hover:cursor-pointer">
-        <img src="~/assets/dogs6.jpg" alt="dog6" class="w-full aspect-square md:aspect-auto md:h-full object-cover">
+        <img src="/dogs6.jpg" alt="dog6" class="w-full aspect-square md:aspect-auto md:h-full object-cover">
       </div>
     </div>
   </div>

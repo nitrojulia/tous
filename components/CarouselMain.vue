@@ -7,7 +7,7 @@
 
 <style scoped>
 .carousel-main {
-  background-image: url("assets/dogs7.jpg");
+  background-image: url("/dogs7.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

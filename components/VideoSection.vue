@@ -11,7 +11,7 @@ import { ButtonTypes } from '~/server/api/types'
       <div class="bg w-full min-h-[400px] absolute -z-1 filter-blur-[3px] hidden md:block" />
     </div>
     <div class="w-full md:w-auto flex justify-center md:px-0 px-[5%]">
-      <img src="~/assets/dogs1.jpg" alt="dog1" class="w-[400px]">
+      <img src="/dogs1.jpg" alt="dog1" class="w-[400px]">
     </div>
     <div flex flex-col text-left class="md:text-white pb-[10%] md:px-0 px-[5%]">
       <p text="xs">
@@ -32,7 +32,7 @@ import { ButtonTypes } from '~/server/api/types'
 
 <style scoped>
 .bg{
-  background-image: url("assets/dogs4.jpg");
+  background-image: url("/dogs4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

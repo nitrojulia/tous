@@ -1,4 +1,5 @@
 <script setup>
+import { computed } from 'vue'
 import { ButtonTypes } from '~/server/api/types'
 
 const props = defineProps({
