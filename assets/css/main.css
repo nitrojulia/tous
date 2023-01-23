@@ -29,3 +29,11 @@
     ascent-override:103%;
     src:local("Arial")
 }
+
+.font-tous {
+    font-family: Tous, Tous-fallback;
+}
+
+.font-roboto {
+    font-family: Roboto, Roboto-fallback;
+}

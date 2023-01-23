@@ -11,8 +11,8 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.30.1",
+    "@iconify-json/bi": "^1.1.14",
     "@iconify-json/carbon": "^1.1.10",
-    "@iconify-json/twemoji": "^1.1.5",
     "@nuxtjs/color-mode": "^3.2.0",
     "@pinia/nuxt": "^0.4.3",
     "@unocss/nuxt": "^0.46.5",
@@ -20,6 +20,9 @@
     "eslint": "^8.27.0",
     "nuxt": "^3.0.0",
     "pinia": "^2.0.23",
-    "typescript": "^4.9.3"
+    "typescript": "^4.9.3",
+    "vite": "^3.0.0",
+    "vue": "^3.2.45",
+    "vue3-carousel": "^0.2.9"
   }
 }
