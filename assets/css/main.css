@@ -1,0 +1,31 @@
+
+@font-face{
+    font-display:swap;
+    font-family:Tous;
+    font-weight:700;
+    src:url('assets/fonts/TOUS-Bold.woff2') format("woff2")
+}
+@font-face{
+    font-family:Tous-fallback;
+    size-adjust:96.31%;
+    ascent-override:110%;
+    src:local("Times New Roman")
+}
+@font-face{
+    font-display:swap;
+    font-family:Roboto;
+    font-weight:700;
+    src:url(assets/fonts/Roboto-Bold.woff2) format("woff2")
+}
+@font-face{
+    font-display:swap;
+    font-family:Roboto;
+    font-weight:400;
+    src:url(assets/fonts/Roboto-Regular.woff2) format("woff2")
+}
+@font-face{
+    font-family:Roboto-fallback;
+    size-adjust:105.44%;
+    ascent-override:103%;
+    src:local("Arial")
+}
